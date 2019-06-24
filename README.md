@@ -8,6 +8,10 @@ Using PHP, build a shopping basket that helps you get this data.
 
 * Use PHP
 
+**Scope**
+
+* Focus on API side, not on the interface
+
 **Timing**
 
 You have 3 weeks to accomplish the assignment. You decide yourself how much time and effort you invest in it, but one of our colleagues tends to say: "Make sure it is good" ;-).
