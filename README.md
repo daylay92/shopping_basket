@@ -1,4 +1,4 @@
-# Technical assignment back end engineer II
+# Technical assignment back-end engineer
 
 You’re working on an online shopping platform. The sales team wants to know which items were added to a basket, but removed before checkout. We will use this data later for targeted discounts.
 
