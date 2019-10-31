@@ -15,4 +15,4 @@ Using PHP, build a shopping basket that helps you get this data.
 **Timing**
 
 You have 3 weeks to accomplish the assignment. You decide yourself how much time and effort you invest in it, but one of our colleagues tends to say: "Make sure it is good" ;-).
-Please ping us when you are done, on this endpoint ([Slack incoming webhooks](https://api.slack.com/incoming-webhooks)): `https://hooks.slack.com/services/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`. Please mention your name and a link to what we need to review.
+Please ping us when you are done, on this endpoint ([Slack incoming webhooks](https://api.slack.com/incoming-webhooks)): `https://hooks.slack.com/services/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`. Please mention your name and a link to what we need to review.
