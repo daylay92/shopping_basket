@@ -15,4 +15,4 @@ Using PHP, build a shopping basket that helps you get this data.
 **Timing**
 
 You have 3 weeks to accomplish the assignment. You decide yourself how much time and effort you invest in it, but one of our colleagues tends to say: "Make sure it is good" ;-).
-Please send Yannick (yannick@madewithlove.be) an email when you are ready with the assignment. Please mention your name, Github username and a link to what we need to review.
+Please send Yannick (jobs@madewithlove.be) an email when you are ready with the assignment. Please mention your name, Github username and a link to what we need to review.
