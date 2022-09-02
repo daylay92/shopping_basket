@@ -1,0 +1,26 @@
+[{
+    "name": "Pioneer DJ Mixer",
+    "price": 699,
+    "imageUrl": "https://res.cloudinary.com/propertypro/image/upload/v1661640284/image-2.jpg"
+},
+{
+    "name": "Roland Wave Sampler",
+    "price": 485,
+    "imageUrl": "https://res.cloudinary.com/propertypro/image/upload/v1661640284/image-2.jpg"
+},
+{
+    "name": "Reloop Headphone",
+    "price": 159,
+    "imageUrl": "https://res.cloudinary.com/propertypro/image/upload/v1661640284/image-2.jpg"
+},
+{
+    "name": "Rokit Monitor",
+    "price": 189.9,
+    "imageUrl": "https://res.cloudinary.com/propertypro/image/upload/v1661640284/image-2.jpg"
+},
+{
+    "name": "Fisherprice Baby Mixer",
+    "price": 120,
+    "imageUrl": "https://res.cloudinary.com/propertypro/image/upload/v1661640284/image-2.jpg"
+}
+]

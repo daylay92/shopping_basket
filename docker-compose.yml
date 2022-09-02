@@ -1,0 +1,29 @@
+version: "3"
+services:
+
+  backend:
+    build: ./backend
+    environment:
+      - DB_URL=mongodb://db:27017/shopdb
+      - PORT=4500
+    ports:
+      - '4500:4500'
+    container_name: shopping_basket
+    command: ['bash', '-c', 'yarn start:prod']
+    depends_on:
+      - db
+
+  db:
+    image: mongo
+    ports:
+      - 27017:27017
+    volumes:
+      - ./mongodb_data_container:/data/db
+      
+  frontend:
+    build: ./frontend
+    ports:
+     - "3000:80"
+    command: ["nginx", "-g", "daemon off;"]
+    depends_on:
+     - backend
