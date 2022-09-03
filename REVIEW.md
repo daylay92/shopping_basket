@@ -33,7 +33,7 @@ To get the app up and running on a local environment, do the following:
 - clone the repository with the following command:
 ```bash
 # get app
-$ git clone https://github.com/daylay92/email_scheduler.git
+$ git clone https://github.com/madewithlove/technical-assignment-full-stack-engineer-daylay92.git
 ```
 - Open the folder of the cloned repository
 - Run the following command at the root of the project:
@@ -49,10 +49,10 @@ $ make up
 
 ```bash
 # get app
-$ git clone https://github.com/daylay92/email_scheduler.git
+$ git clone https://github.com/madewithlove/technical-assignment-full-stack-engineer-daylay92.git
 
 # navigate to working directory and add environment variables
-$ cd email_scheduler
+$ cd technical-assignment-full-stack-engineer-daylay92
 
 # build and run services with docker-compose
 $ make up
@@ -64,7 +64,7 @@ To get the app up and running on a local environment, do the following:
 - clone the repository with the following command:
 ```bash
 # get app
-$ git clone https://github.com/daylay92/email_scheduler.git
+$ git clone https://github.com/madewithlove/technical-assignment-full-stack-engineer-daylay92.git
 ```
 - Open the folder of the cloned repository
 - Run the following command at the root of the project:
@@ -86,10 +86,10 @@ $ cd frontend && npm start
 
 ```bash
 # get app
-$ git clone https://github.com/daylay92/email_scheduler.git
+$ git clone https://github.com/madewithlove/technical-assignment-full-stack-engineer-daylay92.git
 
 # navigate to working directory and add environment variables
-$ cd email_scheduler
+$ cd technical-assignment-full-stack-engineer-daylay92
 
 # build and run services with docker-compose
 $ make up
