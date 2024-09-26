@@ -33,7 +33,7 @@ To get the app up and running on a local environment, do the following:
 - clone the repository with the following command:
 ```bash
 # get app
-$ git clone https://github.com/madewithlove/technical-assignment-full-stack-engineer-daylay92.git
+$ git clone https://github.com/daylay92/shopping_basket.git
 ```
 - Open the folder of the cloned repository
 - Run the following command at the root of the project:
@@ -49,10 +49,10 @@ $ make up
 
 ```bash
 # get app
-$ git clone https://github.com/madewithlove/technical-assignment-full-stack-engineer-daylay92.git
+$ git clone [repo](https://github.com/daylay92/shopping_basket.git)
 
 # navigate to working directory and add environment variables
-$ cd technical-assignment-full-stack-engineer-daylay92
+$ cd shopping_basket
 
 # build and run services with docker-compose
 $ make up
@@ -64,8 +64,7 @@ To get the app up and running on a local environment, do the following:
 - clone the repository with the following command:
 ```bash
 # get app
-$ git clone https://github.com/madewithlove/technical-assignment-full-stack-engineer-daylay92.git
-```
+$ git clone [repo](https://github.com/daylay92/shopping_basket.git)
 - Open the folder of the cloned repository
 - Run the following command at the root of the project:
 ```bash
@@ -86,10 +85,10 @@ $ cd frontend && npm start
 
 ```bash
 # get app
-$ git clone https://github.com/madewithlove/technical-assignment-full-stack-engineer-daylay92.git
+$ git clone [repo](https://github.com/daylay92/shopping_basket.git)
 
 # navigate to working directory and add environment variables
-$ cd technical-assignment-full-stack-engineer-daylay92
+$ cd shopping_basket
 
 # build and run services with docker-compose
 $ make up
